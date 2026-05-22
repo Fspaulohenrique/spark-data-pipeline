@@ -67,13 +67,13 @@ python src/main.py
 
 ---
 
-##📈 Future Improvements
+## 📈 Future Improvements
 - Integration with cloud storage (AWS S3 / Azure Data Lake)
 - Use of Delta Lake
 - Real-time streaming with Spark Structured Streaming
 - Orchestration with Airflow
 
 ---
-##📌 Motivation
+## 📌 Motivation
 
 This project was created to strengthen my practical experience with data pipelines and Spark, focusing on real-world data processing scenarios.
